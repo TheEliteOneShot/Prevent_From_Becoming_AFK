@@ -1,0 +1,3 @@
+@echo off
+echo Staying Active...
+powershell -ExecutionPolicy Bypass -File ./active.ps1
